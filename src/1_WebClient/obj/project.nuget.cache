@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "kLTCNoSGIKdGLCLcAz13/Em2RYoi+J3FEoK7nSBWnQ3P/82ypRn2QxSPbNRuUJge8PNE0aRUjiWp02ZhXOuWAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BKAdams\\source\\duende-external-provider\\src\\1_WebClient\\1_WebClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BKAdams\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\8.0.1\\microsoft.aspnetcore.authentication.openidconnect.8.0.1.nupkg.sha512",
+    "C:\\Users\\BKAdams\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\BKAdams\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\BKAdams\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\BKAdams\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "C:\\Users\\BKAdams\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "C:\\Users\\BKAdams\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\BKAdams\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
